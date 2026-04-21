@@ -1,0 +1,35 @@
+TITRE DE LA PAGE : CRISTAL - Contacts et Adhésion
+
+--- EN-TÊTE ---
+
+Nous Contacter
+Lien de navigation : Retour à la page d'accueil (index.html)
+
+--- CONTENU PRINCIPAL ---
+
+SECTION : Coordonnées officielles
+Vous pouvez nous retrouver physiquement à Parakou ou nous joindre via les canaux suivants :
+
+- Téléphone : +229 54183086
+- Email : cristalenspd2@gmail.com
+- WhatsApp : Canal officiel CRISTAL
+
+
+SECTION : Formulaire d'inscription / Information
+[STRUCTURE DU FORMULAIRE]
+
+1. Champ : Nom et Prénoms
+   Type : Saisie de texte
+
+2. Champ : Votre adresse e-mail
+   Type : Saisie d'e-mail
+
+3. Champ : En quoi pouvons-nous vous aider ?
+   Type : Zone de texte multiligne
+   Indication : "Décrivez votre besoin ici..."
+
+Bouton : Envoyer ma demande au collectif
+
+--- PIED DE PAGE ---
+
+2026 Collectif de Recherche et d'Innovation en Statistiques de Travail

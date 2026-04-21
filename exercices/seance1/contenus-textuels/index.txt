@@ -1,0 +1,51 @@
+TITRE DE LA PAGE : CRISTAL ENSPD - Portail Officiel
+
+--- EN-TÊTE ---
+
+Collectif CRISTAL - ENSPD
+Recherche et Innovation en Statistiques de Travail
+
+Sommaire de la présentation :
+- Notre Vision du Collectif
+- Méthodes Pédagogiques
+- Expertise Logicielle
+- Impact et Communauté
+- Aller au Formulaire de Contact (Lien externe : contacts.html)
+
+--- CONTENU PRINCIPAL ---
+
+SECTION : Notre Vision du Collectif
+[EMPLACEMENT IMAGE : logo-cristal.png | Description : Vision du CRISTAL]
+
+Le CRISTAL n'est pas seulement un groupe d'étude, c'est un véritable pilier pour les étudiants de l'ENSPD. Notre vision repose sur l'excellence académique alliée à la pratique professionnelle. Nous pensons que chaque étudiant en statistique doit être capable de transformer des données brutes en décisions stratégiques. Dans un monde de plus en plus numérique, la maîtrise de l'information est un atout majeur.
+
+Nous encourageons la curiosité intellectuelle et le travail d'équipe. Le collectif sert de pont entre les cours théoriques magistraux et les réalités du marché de l'emploi au Bénin et à l'international. En rejoignant le CRISTAL, l'étudiant s'engage dans un parcours de professionnalisation continue.
+
+
+SECTION : Méthodes Pédagogiques et Ateliers
+[EMPLACEMENT IMAGE : atelier-formation.png | Description : Atelier de formation]
+
+Nos ateliers sont conçus pour être 100% pratiques. Nous utilisons des jeux de données réels provenant d'études de cas concrètes. Chaque session de formation est divisée en deux phases : une phase d'exploration guidée et une phase de projet libre où l'étudiant doit résoudre une problématique spécifique par lui-même.
+
+Le mentorat joue également un rôle clé au sein du CRISTAL. Les étudiants les plus expérimentés accompagnent les nouveaux venus, créant ainsi une chaîne de transmission du savoir robuste. Cela permet de renforcer non seulement les compétences techniques, mais aussi les "soft skills" comme la communication et l'esprit critique.
+
+
+SECTION : Expertise Logicielle
+[EMPLACEMENT IMAGE : logiciels-stats.png | Description : Logiciels statistiques]
+
+Le choix des outils est primordial pour un statisticien moderne. Au CRISTAL, nous mettons l'accent sur la polyvalence. Nous commençons par les bases essentielles sur Excel pour la gestion de base de données simple, avant d'évoluer vers des environnements de programmation plus puissants comme R et Python pour l'analyse prédictive.
+
+Nous couvrons également les outils de collecte de données sur le terrain. La maîtrise de KoboToolbox et ODK est indispensable pour les enquêtes en zones rurales. Enfin, nous introduisons les étudiants à la visualisation de données avec des outils comme Power BI ou Tableau pour apprendre à présenter des résultats de manière percutante.
+
+
+SECTION : Impact et Communauté
+[EMPLACEMENT IMAGE : communaute.png | Description : Événement communautaire]
+
+Avec plus de 700 followers sur nos réseaux sociaux, le CRISTAL rayonne au-delà des murs de l'ENSPD. Nous publions régulièrement des bulletins de veille technologique et des astuces logicielles. Cette présence numérique permet de créer un réseau de professionnels et d'étudiants toujours connectés aux dernières innovations.
+
+Nos événements annuels, comme les journées de la statistique, rassemblent des experts du secteur privé et public. C'est l'occasion pour nos membres de présenter leurs travaux de recherche et de se faire repérer par de futurs recruteurs. Le CRISTAL est une famille qui grandit chaque année.
+
+
+--- PIED DE PAGE ---
+
+CRISTAL ENSPD - Parakou, République du Bénin
