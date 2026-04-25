@@ -1,0 +1,99 @@
+* {
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.logo {
+    color: blue;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+}
+
+.hero img {
+    width: 90%;
+}
+
+header .bi {
+    color: blue;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-label {
+    color: black;
+    background-color: #a5a5a556;
+    text-align: center;
+}
+
+button {
+    font-weight: bold;
+}
+
+.btn-primary {
+    color: white;
+    background-color: blue;
+}
+
+.btn-secondary {
+    color: black;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+p {
+    line-height: 1.7;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+}
+
+h2 + p {
+    color: red;
+}
+
+/* COLORS */
+/*
+- Names
+- Codes hex 38
+- rgb
+- Hsl
+- rgba
+*/
+
+/*
+
+* Selecteurs
+- le sélecteur universel *
+- le selecteur avec le nom de la balise (ex: header)
+- le sélecteur pour un id préfixé de # (ex: #mon-id)
+- le sélecteur pour une classe préfixé de . (ex: .btn)
+- pour sélectionner A qui est dans B, on fait: B A
+- pour sélectionner A qui suit B, on fait B + A
+- pour combiner plusieurs sélecteurs, on utiliser la virgule (ex: A, B)
+
+
+* Proprietes
+- color pour la couleur
+- font-family pour la police
+- font-style pour le style (ex: italic)
+- font-weight pour le gras
+- line-height pour la hauteur de ligne
+- text-decoration pour le soulignement
+- text-transform pour modifier la casse (majuscule/minuscule)
+- text-align pour aligner le texte (ex: start, center, end)
+
+* Prochainement
+- Pseudo-classes
+- Héritage et priorité
+- Unités de mesure
+- Couleurs
+- text-wrap, text-overflow, text-shadow, white-space
+
+CSS Diner --> Level 12
+
+*/
