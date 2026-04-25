@@ -48,6 +48,8 @@ exercices/seance1/
 4. Lier les deux pages entre elles avec des liens de navigation.
 5. Inserer correctement les images indiquees dans les sections.
 
+⚠️ Le titre "Sommaire de la présentation" doit être un titre de niveau 2 et non de niveau 3 comme le laisse suggéré les captures d'écran de référence. Il est important de respecter cette hiérarchie pour une structure HTML sémantique correcte. 
+
 ## Contraintes techniques minimales
 - Utiliser une structure HTML semantique : `header`, `main`, `section`, `footer`.
 - Utiliser des titres hierarchises (`h1`, `h2`, etc.).
