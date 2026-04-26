@@ -7,19 +7,6 @@ Ce dépôt contient les supports de cours et les exercices de la formation web.
 - `cours/` : les fichiers de démonstration et les exemples vus en séance.
 - `exercices/` : les consignes, contenus fournis et rendus attendus pour la pratique.
 
-## Séance 1
-
-La première séance porte sur la création d’un mini-site en HTML/CSS avec deux pages reliées entre elles :
-
-- une page d’accueil `index.html`
-- une page de contact `contact.html` ou `contacts.html` selon l’exercice
-
-Les objectifs principaux sont les suivants :
-
-- utiliser une structure HTML sémantique claire
-- intégrer du texte, des images et des liens de navigation
-- construire un formulaire de contact simple
-- appliquer une mise en forme CSS de base
 
 ## Organisation des fichiers
 
