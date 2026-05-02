@@ -1,0 +1,58 @@
+/*
+
+- Pseudo-classes
+- Héritage et priorité
+- Unités de mesure
+- Couleurs
+- text-wrap, text-overflow, text-shadow, white-space
+
+*/
+
+
+/* width, height, display */
+/*
+*/
+
+body {
+    margin: 0;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(203, 203, 214);
+    border: 2px solid red;
+    margin: 10px;
+    padding: 50px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+/*
+
+* Les pseudo-classes
+- :hover pour le survol
+- :focus pour le focus
+- :visited pour un lien visité
+- :active lors de l'activité du lien ou du bouton (lors du clic)
+
+* faites des recherches sur les règles de priorité des sélecteurs et consulter la doc MDN pour savoir si une propriété est héritée ou non
+
+* Texte
+
+- text-wrap pour controler la césure du texte
+- text-overflow pour controler le comportement du texte qui déborde (attention, à combiner avec d'autres proprietes pour avoir l'effet escompté =» confer la doc)
+- text-shadow pour l'ombre porté du texte (ex: text-shadow: 2px 3px 1px red)
+- white-space pour les espaces blancs
+
+
+* Display (block, inline, inline-block)
+
+* width et height qui ne fonctionnent qu'avec block et inline
+
+* border: 1px solid red;
+
+* 
+
+
+*/
