@@ -39,6 +39,15 @@ Puis utilisez l'icône flèche avec :
 ```html
 <i class="bi bi-arrow-down-short"></i>
 ```
+
+## Palettes de Couleurs
+Voici les couleurs utilisées dans le design :
+-  #ff4600
+-  #ff5000
+-  #000000
+-  #ffffff
+-  #bbbbbb
+
 ## Fichiers attendus
 
 Compressez votre travail dans un fichier ZIP et soumettez-le via Google Classroom. Assurez-vous que votre fichier ZIP contient au moins les fichiers suivants :
