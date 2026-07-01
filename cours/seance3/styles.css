@@ -52,7 +52,25 @@ body {
 
 * border: 1px solid red;
 
-* 
+*
 
 
 */
+
+
+#specialParagraph {
+    text-decoration: underline;
+    color: purple;
+}
+
+#specialParagraph:hover {
+    color: red;
+}
+
+#specialParagraph + p {
+    display: none;
+}
+
+#specialParagraph:hover + p {
+    display: block;
+}
