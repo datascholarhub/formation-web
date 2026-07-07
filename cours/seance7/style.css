@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: pink;
+    height: 64px;
+    /* static est la valeur par défaut */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    position: sticky;
+    top: 10px;
+    left: 0px;
+}
+
+.my-sticky {
+    position: sticky;
+    top: 10px;
+    left: 0px;
+    background-color: blue;
+}
+
+header p {
+    color: blue;
+    background-color: aqua;
+    width: fit-content;
+    position: relative;
+    right: 20px;
+    bottom: 10px;
+}
+header p:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.chat-box {
+    padding: 1rem 2rem;
+    width: fit-content;
+    background-color: brown;
+    color: white;
+    position: fixed;
+    z-index: 999;
+    right: 32px;
+    bottom: 32px;
+}
+
+.profile {
+    width: 48px;
+    height: 48px;
+    background-color: black;
+    position: relative;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.online-spot {
+    width: 12px;
+    height: 12px;
+    background-color: green;
+    border: 1px solid white;
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+    border-radius: 50%;
+}
+
+/* Valeur -- Dans le flux ? -- Repère
+ * static    oui              position par défaut
+ * relative  oui              par rapport à son positionnement normal
+ * fixed     non              viewport (comme s'il n'appartenait pas à la page)
+ * absolute   non             premier parent positionné (position =/= static)
+ * sticky     oui              par défaut / viewport après accrochage
+*/
+
