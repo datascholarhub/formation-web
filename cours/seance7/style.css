@@ -73,6 +73,6 @@ header p:hover {
  * relative  oui              par rapport à son positionnement normal
  * fixed     non              viewport (comme s'il n'appartenait pas à la page)
  * absolute   non             premier parent positionné (position =/= static)
- * sticky     oui              par défaut / viewport après accrochage
+ * sticky     oui              par défaut / viewport après accrochage (décroche à la fin de son parent direct)
 */
 
