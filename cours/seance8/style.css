@@ -28,6 +28,12 @@ body {
     color: white;
 }
 
+.lgrad {
+    width: 50%;
+    height: 500px;
+    background-image: linear-gradient(30deg, blue 50%, purple 70%);
+}
+
 
 /*
 
